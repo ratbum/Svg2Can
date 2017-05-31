@@ -1,4 +1,4 @@
-#svg2can
+# svg2can
 
 Really basic, incomplete library for rendering SVGs to a TkInter canvas.
 
